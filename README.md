@@ -25,4 +25,11 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-...
+## Requirements
+
+- PHP >= 8.1
+- Composer
+- Laravel >= 10.x
+- MySQL or PostgreSQL
+- Node.js (for frontend integration, optional)
+- Paystack, Flutterwave, Stripe, and PayPal accounts for payment gateways
